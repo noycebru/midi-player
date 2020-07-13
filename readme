@@ -1,0 +1,13 @@
+the main code is modified from code provided by:
+Written by tttapa, 24/09/2017
+https://github.com/tttapa/MIDI_controller
+
+you'll need these two libraries to make this code work
+
+midiusb
+https://github.com/arduino-libraries/MIDIUSB
+and midicontroller
+https://github.com/tttapa/MIDI_controller
+
+the main file is a modified version of button matrix example made to match-up with an arduino pro micro.
+print the case here: https://cults3d.com/en/3d-model/various/noycemidi-a-mini-25-button-midi-player
